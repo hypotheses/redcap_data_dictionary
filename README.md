@@ -2,9 +2,12 @@
 Shared REDCap Data Dictionary
 
 ## Maintainer
-Bhoom Suktitipat, MD, PhD
-Faculty of Medicine Siriraj Hospital, Mahidol University
-[bhoom.suk+github[@]mahidol.edu]
+
+  Bhoom Suktitipat, MD, PhD
+  
+  Faculty of Medicine Siriraj Hospital, Mahidol University
+  
+  bhoom.suk+github[@]mahidol.edu
 
 ## Table of Content
 
