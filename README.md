@@ -20,3 +20,4 @@ Shared REDCap Data Dictionary
   6. Additional Diagnosis Information (Following Genomics Data Common)
 
 - [Data Dictionary Codebook](https://github.com/hypotheses/redcap_data_dictionary/blob/master/Genomics_Thailand_Registry_REDCap.pdf)
+- [CRF](https://github.com/hypotheses/redcap_data_dictionary/blob/master/CRF-Genomics_Thailand_Registry_REDCap.pdf)
