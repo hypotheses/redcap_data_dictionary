@@ -21,3 +21,4 @@ Shared REDCap Data Dictionary
 
 - [Data Dictionary Codebook](https://github.com/hypotheses/redcap_data_dictionary/blob/master/Genomics_Thailand_Registry_REDCap.pdf)
 - [CRF](https://github.com/hypotheses/redcap_data_dictionary/blob/master/CRF-Genomics_Thailand_Registry_REDCap.pdf)
+- [Download this XML file](https://github.com/hypotheses/redcap_data_dictionary/blob/master/GenomicsThailandRegistry.REDCap.xml) to create the project in REDCap.
