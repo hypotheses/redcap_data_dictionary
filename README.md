@@ -18,3 +18,5 @@ Shared REDCap Data Dictionary
   4. Additional Cancer Registry Information (Following Genomics Data Common)
   5. Additional Follow-up Information (Following Genomics Data Common)
   6. Additional Diagnosis Information (Following Genomics Data Common)
+
+- [Data Dictionary Codebook](https://github.com/hypotheses/redcap_data_dictionary/blob/master/Genomics_Thailand_Registry_REDCap.pdf)
