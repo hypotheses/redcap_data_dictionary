@@ -1,12 +1,12 @@
 # REDCap Data Dictionary
-Shared REDCap Data Dictionary
+
+**Electronic database management system for clinical and omics data for the comprehensive multi-center tumor registry and tumor biobank**
+**Support by PMU-B 2563 Grant**
 
 ## Maintainer
 
   Bhoom Suktitipat, MD, PhD
-  
   Faculty of Medicine Siriraj Hospital, Mahidol University
-  
   bhoom.suk+github[@]mahidol.edu
 
 ## Table of Content
